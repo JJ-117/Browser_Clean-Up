@@ -35,6 +35,7 @@
 <img width="488" height="245" alt="image" src="https://github.com/user-attachments/assets/9b430ae3-d950-4ede-ac7b-0f660ed5e245" />
   
 #### Check the logs if required
+<img width="544" height="140" alt="image" src="https://github.com/user-attachments/assets/9340396e-7d14-4370-90f8-ce6071be6e3e" />
 
   
 > [!IMPORTANT]
