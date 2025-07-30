@@ -29,17 +29,15 @@
 <img width="627" height="171" alt="image" src="https://github.com/user-attachments/assets/33b6eb19-fc5b-4ac3-aca0-f995429d934f" />
   
 #### Confirm the pop-up
-<img width="537" height="298" alt="image" src="https://github.com/user-attachments/assets/e64ce415-06e9-4e27-a3d8-c0b8a8a114aa" />
-
+<img width="475" height="219" alt="image" src="https://github.com/user-attachments/assets/d84c86c5-b18d-42d4-8ce6-84bc6307d763" />
   
 #### Acknowledge the popup
-
+<img width="488" height="245" alt="image" src="https://github.com/user-attachments/assets/9b430ae3-d950-4ede-ac7b-0f660ed5e245" />
   
-#### check the logs if required
+#### Check the logs if required
 
   
 > [!IMPORTANT]
-> Folders & Files Deleted:
 > The script searches for and deletes the following files if they exist.
 >
 > ```
